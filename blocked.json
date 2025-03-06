@@ -1,7 +1,7 @@
 {
   "licenses": {
     "abcd-1234-efgh-5678": {
-      "domain": "paymentpointng.com",
+      "domain": "paymntpointng.com",
       "expiry_date": "2025-2-31",
       "status": "active"
     }
