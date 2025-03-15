@@ -9,6 +9,11 @@
       "domain": "instaswap.online",
       "expiry_date": "2025-12-31",
       "status": "active"
+    },
+    "ijkl-5678-mnop-678": {
+      "domain": "winpay.com.ng",
+      "expiry_date": "2025-12-31",
+      "status": "active"
     }
   }
 }
