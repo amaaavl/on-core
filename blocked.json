@@ -14,6 +14,11 @@
       "domain": "winpay.com.ng",
       "expiry_date": "2025-12-31",
       "status": "active"
+    },
+    "ij11-5678-mnop-678": {
+      "domain": "diagipay.com.ng",
+      "expiry_date": "2025-12-31",
+      "status": "active"
     }
   }
 }
