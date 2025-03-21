@@ -19,6 +19,11 @@
       "domain": "diagipay.com.ng",
       "expiry_date": "2025-12-31",
       "status": "active"
+    },
+    "ijkl-u378-mnop-678": {
+      "domain": "squaredco.store",
+      "expiry_date": "2025-12-31",
+      "status": "active"
     }
   }
 }
